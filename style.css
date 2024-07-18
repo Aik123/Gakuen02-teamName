@@ -1,0 +1,10 @@
+/* ここに CSS のコードを書きましょう */
+
+.pics {
+    text-align: center;
+}
+
+img {
+    margin: auto;
+    display: block;
+  }
